@@ -1,0 +1,1 @@
+This project features a chatbot equipped with tools, specifically a calculator, allowing it to perform math operations that standard LLMs often struggle with. It demonstrates how to integrate LangChain and LangGraph to give agents access to external functions.
